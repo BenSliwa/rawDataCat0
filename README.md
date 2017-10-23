@@ -1,5 +1,7 @@
 Raw experimental data for measurements of different LTE network quality indicators
 
+[![DOI](https://zenodo.org/badge/107971386.svg)](https://zenodo.org/badge/latestdoi/107971386)
+
 ### Data format
 * Transmission time since evaluation start [s]
 * Payload size [MB]
